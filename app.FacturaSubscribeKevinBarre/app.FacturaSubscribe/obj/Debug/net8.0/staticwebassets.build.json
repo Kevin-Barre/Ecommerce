@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "foigun8WvGKqsE8Pt+BLSvLSh+k6bikOVC4xJEFfYyI=",
+  "Source": "app.FacturaSubscribe",
+  "BasePath": "_content/app.FacturaSubscribe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

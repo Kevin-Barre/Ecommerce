@@ -1,0 +1,17 @@
+services:
+  service-event:
+    image: rabbitmq:3.13.7-management
+    container_name: component-event-rabbitmq
+    restart: no
+    environment:
+      - RABBITMQ_DEFAULT_USER=admin
+      - RABBITMQ_DEFAULT_PASS=admin
+    ports:
+    - 5672:5672
+    - 15672:15672
+    networks:
+    - net-app-distri
+    
+networks:
+  net-app-distri:
+    name: netappdistri

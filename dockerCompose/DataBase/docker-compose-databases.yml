@@ -1,0 +1,37 @@
+services:
+  service-mysql:
+    image: mysql:8.0.26
+    container_name: database-mysql
+    restart: no
+    environment:
+    - MYSQL_ROOT_PASSWORD=admin
+    ports:
+    - 3307:3306
+    - 33061:33060
+    networks:
+    - net-app-distri
+  service-sql:
+    image: mcr.microsoft.com/mssql/server:2019-GA-ubuntu-16.04
+    container_name: database-sqlserver
+    restart: no
+    ports:
+    - 1434:1433
+    environment:
+    - ACCEPT_EULA=Y
+    - SA_PASSWORD=adminAppDist2024#
+    networks:
+    - net-app-distri
+  service-postgres:
+    image: postgres:alpine3.14
+    container_name: database-postgres
+    restart: no
+    environment:
+    - POSTGRES_PASSWORD=admin
+    ports:
+    - 5434:5432
+    networks:
+    - net-app-distri
+  
+networks:
+  net-app-distri:
+    name: netappdistri

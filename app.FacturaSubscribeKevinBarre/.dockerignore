@@ -1,0 +1,10 @@
+bin/
+obj/
+out/
+TestResults/
+**/bin
+**/out
+**/obj
+**/*.user
+**/*.suo
+.vs

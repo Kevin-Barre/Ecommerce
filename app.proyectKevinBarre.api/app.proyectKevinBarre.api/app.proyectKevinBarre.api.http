@@ -1,0 +1,6 @@
+@app.proyectKevinBarre.api_HostAddress = http://localhost:5171
+
+GET {{app.proyectKevinBarre.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

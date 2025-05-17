@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|solutionrelative:app.proyectkevinbarre.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|solutionrelative:app.proyectkevinbarre.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|solutionrelative:app.proyectkevinbarre.api\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\implementations\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\implementations\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.accessdata\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|solutionrelative:app.proyectkevinbarre.accessdata\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.accessdata\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|solutionrelative:app.proyectkevinbarre.accessdata\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.common\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|solutionrelative:app.proyectkevinbarre.common\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.common\\dto\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|solutionrelative:app.proyectkevinbarre.common\\dto\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.accessdata\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|solutionrelative:app.proyectkevinbarre.accessdata\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ADC5BC-40B6-4E96-8BD5-E1D64A4B9C87}|app.proyectKevinBarre.entities\\app.proyectKevinBarre.entities.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.entities\\models\\entidadesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0ADC5BC-40B6-4E96-8BD5-E1D64A4B9C87}|app.proyectKevinBarre.entities\\app.proyectKevinBarre.entities.csproj|solutionrelative:app.proyectkevinbarre.entities\\models\\entidadesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.api\\app.proyectkevinbarre.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|solutionrelative:app.proyectkevinbarre.api\\app.proyectkevinbarre.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.api\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|solutionrelative:app.proyectkevinbarre.api\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\implementations\\ventadetalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\implementations\\ventadetalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\implementations\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\implementations\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.accessdata\\repositories\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|solutionrelative:app.proyectkevinbarre.accessdata\\repositories\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\interfaces\\iventadetalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\interfaces\\iventadetalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.accessdata\\crudgenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|solutionrelative:app.proyectkevinbarre.accessdata\\crudgenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.common\\dto\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|solutionrelative:app.proyectkevinbarre.common\\dto\\detalleventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.accessdata\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|solutionrelative:app.proyectkevinbarre.accessdata\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.common\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|solutionrelative:app.proyectkevinbarre.common\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\implementations\\ventaservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\implementations\\ventaservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\eventmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\eventmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\eventmq\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\eventmq\\irabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64720070-7E43-4040-9F19-72B67343D9DD}|app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj|solutionrelative:app.proyectkevinbarre.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.common\\eventmq\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}|app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj|solutionrelative:app.proyectkevinbarre.common\\eventmq\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.accessdata\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|solutionrelative:app.proyectkevinbarre.accessdata\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.accessdata\\migrations\\20250405002530_initialmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541E952F-C745-4D65-A7DE-AC1B159BE2D3}|app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj|solutionrelative:app.proyectkevinbarre.accessdata\\migrations\\20250405002530_initialmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.proyectkevinbarre.api\\app.proyectkevinbarre.services\\implementations\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}|app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj|solutionrelative:app.proyectkevinbarre.services\\implementations\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\Program.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.api\\Program.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\Program.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.api\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:59:11.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\appsettings.json",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.api\\appsettings.json",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\appsettings.json",
+              "RelativeToolTip": "app.proyectKevinBarre.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T18:07:03.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.api\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.api\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:58:07.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\Implementations\\CategoriaService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\CategoriaService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\Implementations\\CategoriaService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:52:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.accessData\\repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.accessData\\repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T23:27:01.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\repositories\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.accessData\\repositories\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\repositories\\ICategoriaRepository.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.accessData\\repositories\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:25:46.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:45:35.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\Dto\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.common\\Dto\\CategoriaDto.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\Dto\\CategoriaDto.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.common\\Dto\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:13:10.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\Dto\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.common\\Dto\\BaseResponse.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\Dto\\BaseResponse.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.common\\Dto\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:13:09.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.accessData\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.accessData\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:24:16.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntidadesModel.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\Models\\EntidadesModel.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.entities\\Models\\EntidadesModel.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\Models\\EntidadesModel.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.entities\\Models\\EntidadesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:44:01.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.proyectKevinBarre.api",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj",
+              "RelativeToolTip": "app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T15:22:02.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\ClienteService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\Implementations\\ClienteService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\ClienteService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\Implementations\\ClienteService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAABBwFUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:55:16.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VentaDetalleService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\VentaDetalleService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\Implementations\\VentaDetalleService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\VentaDetalleService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\Implementations\\VentaDetalleService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAABBwKgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:56:41.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.docker.json",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\appsettings.docker.json",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.api\\appsettings.docker.json",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\appsettings.docker.json",
+              "RelativeToolTip": "app.proyectKevinBarre.api\\appsettings.docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T19:28:58.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Interfaces\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\Interfaces\\ICategoriaService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Interfaces\\ICategoriaService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\Interfaces\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:59:48.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\repositories\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.accessData\\repositories\\IVentaRepository.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\repositories\\IVentaRepository.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.accessData\\repositories\\IVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:32:44.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetalleVentaDto.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\Dto\\DetalleVentaDto.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.common\\Dto\\DetalleVentaDto.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\Dto\\DetalleVentaDto.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.common\\Dto\\DetalleVentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:20:41.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IVentaDetalleService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Interfaces\\IVentaDetalleService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\Interfaces\\IVentaDetalleService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Interfaces\\IVentaDetalleService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\Interfaces\\IVentaDetalleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:12:51.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CrudGenericService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\CrudGenericService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.accessData\\CrudGenericService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\CrudGenericService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.accessData\\CrudGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:32:58.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.accessData\\repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.accessData\\repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:25:45.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\Dto\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.common\\Dto\\ClienteDto.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\Dto\\ClienteDto.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.common\\Dto\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T23:26:48.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\EventMQ\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\EventMQ\\RabbitMQService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\EventMQ\\RabbitMQService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\EventMQ\\RabbitMQService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:01:37.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VentaService .cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\VentaService .cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\Implementations\\VentaService .cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\VentaService .cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\Implementations\\VentaService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:57:29.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRabbitMQService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\EventMQ\\IRabbitMQService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\EventMQ\\IRabbitMQService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\EventMQ\\IRabbitMQService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\EventMQ\\IRabbitMQService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:01:25.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.api\\appsettings.Development.json",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\appsettings.Development.json",
+              "RelativeToolTip": "app.proyectKevinBarre.api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T19:29:48.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\EventMQ\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.common\\EventMQ\\RabbitMQSettings.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\EventMQ\\RabbitMQSettings.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.common\\EventMQ\\RabbitMQSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:02:11.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.accessData\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.accessData\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUBAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:24:31.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250405002530_InitialMigrations.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\Migrations\\20250405002530_InitialMigrations.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.accessData\\Migrations\\20250405002530_InitialMigrations.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\Migrations\\20250405002530_InitialMigrations.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.accessData\\Migrations\\20250405002530_InitialMigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:24:29.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\ProductoService.cs",
+              "RelativeDocumentMoniker": "app.proyectKevinBarre.services\\Implementations\\ProductoService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\Implementations\\ProductoService.cs",
+              "RelativeToolTip": "app.proyectKevinBarre.services\\Implementations\\ProductoService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAABhwFUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:55:40.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

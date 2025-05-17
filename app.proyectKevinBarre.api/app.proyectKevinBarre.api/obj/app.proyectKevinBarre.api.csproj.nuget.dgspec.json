@@ -1,0 +1,480 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj": {}
+  },
+  "projects": {
+    "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj",
+        "projectName": "app.proyectKevinBarre.accessData",
+        "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\app.proyectKevinBarre.entities.csproj": {
+                "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\app.proyectKevinBarre.entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj",
+        "projectName": "app.proyectKevinBarre.api",
+        "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj": {
+                "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj"
+              },
+              "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj": {
+                "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj",
+        "projectName": "app.proyectKevinBarre.common",
+        "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\app.proyectKevinBarre.entities.csproj": {
+                "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\app.proyectKevinBarre.entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\app.proyectKevinBarre.entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\app.proyectKevinBarre.entities.csproj",
+        "projectName": "app.proyectKevinBarre.entities",
+        "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\app.proyectKevinBarre.entities.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj",
+        "projectName": "app.proyectKevinBarre.services",
+        "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\app.proyectKevinBarre.services.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj": {
+                "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.accessData\\app.proyectKevinBarre.accessData.csproj"
+              },
+              "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj": {
+                "projectPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.proyectKevinBarre.api\\app.proyectKevinBarre.common\\app.proyectKevinBarre.common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

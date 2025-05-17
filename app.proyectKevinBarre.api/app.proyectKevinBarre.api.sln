@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.proyectKevinBarre.api", "app.proyectKevinBarre.api\app.proyectKevinBarre.api.csproj", "{64720070-7E43-4040-9F19-72B67343D9DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.proyectKevinBarre.services", "app.proyectKevinBarre.services\app.proyectKevinBarre.services.csproj", "{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.proyectKevinBarre.accessData", "app.proyectKevinBarre.accessData\app.proyectKevinBarre.accessData.csproj", "{541E952F-C745-4D65-A7DE-AC1B159BE2D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.proyectKevinBarre.common", "app.proyectKevinBarre.common\app.proyectKevinBarre.common.csproj", "{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.proyectKevinBarre.entities", "app.proyectKevinBarre.entities\app.proyectKevinBarre.entities.csproj", "{D0ADC5BC-40B6-4E96-8BD5-E1D64A4B9C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64720070-7E43-4040-9F19-72B67343D9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64720070-7E43-4040-9F19-72B67343D9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64720070-7E43-4040-9F19-72B67343D9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64720070-7E43-4040-9F19-72B67343D9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCC8A46-F1B4-4CEF-B013-A52AA69A6A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541E952F-C745-4D65-A7DE-AC1B159BE2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541E952F-C745-4D65-A7DE-AC1B159BE2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541E952F-C745-4D65-A7DE-AC1B159BE2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541E952F-C745-4D65-A7DE-AC1B159BE2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A5CAF6-A018-4A16-A37D-B8D834F882E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0ADC5BC-40B6-4E96-8BD5-E1D64A4B9C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0ADC5BC-40B6-4E96-8BD5-E1D64A4B9C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0ADC5BC-40B6-4E96-8BD5-E1D64A4B9C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0ADC5BC-40B6-4E96-8BD5-E1D64A4B9C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BD57FF4-13DD-4B1A-B43C-D5E01FC34A3C}
+	EndGlobalSection
+EndGlobal

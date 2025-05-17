@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B8928A-8B14-495F-B513-0E4F5C1CE586}|app.FacturaSubscribe\\app.FacturaSubscribe.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.facturasubscribekevinbarre\\app.facturasubscribe\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44B8928A-8B14-495F-B513-0E4F5C1CE586}|app.FacturaSubscribe\\app.FacturaSubscribe.csproj|solutionrelative:app.facturasubscribe\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B8928A-8B14-495F-B513-0E4F5C1CE586}|app.FacturaSubscribe\\app.FacturaSubscribe.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.facturasubscribekevinbarre\\app.facturasubscribe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44B8928A-8B14-495F-B513-0E4F5C1CE586}|app.FacturaSubscribe\\app.FacturaSubscribe.csproj|solutionrelative:app.facturasubscribe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C99C33-6A8A-4E6E-A1B4-73D790D9E82D}|app.FacturaSubscribe.Entities\\app.FacturaSubscribe.Entities.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.facturasubscribekevinbarre\\app.facturasubscribe.entities\\models\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C99C33-6A8A-4E6E-A1B4-73D790D9E82D}|app.FacturaSubscribe.Entities\\app.FacturaSubscribe.Entities.csproj|solutionrelative:app.facturasubscribe.entities\\models\\entidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B8928A-8B14-495F-B513-0E4F5C1CE586}|app.FacturaSubscribe\\app.FacturaSubscribe.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.facturasubscribekevinbarre\\app.facturasubscribe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44B8928A-8B14-495F-B513-0E4F5C1CE586}|app.FacturaSubscribe\\app.FacturaSubscribe.csproj|solutionrelative:app.facturasubscribe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADA7A78-701F-4CD7-BFA4-81A9CF1C5667}|app.FacturaSubscribe.services\\app.FacturaSubscribe.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.facturasubscribekevinbarre\\app.facturasubscribe.services\\mq\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADA7A78-701F-4CD7-BFA4-81A9CF1C5667}|app.FacturaSubscribe.services\\app.FacturaSubscribe.services.csproj|solutionrelative:app.facturasubscribe.services\\mq\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADA7A78-701F-4CD7-BFA4-81A9CF1C5667}|app.FacturaSubscribe.services\\app.FacturaSubscribe.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.facturasubscribekevinbarre\\app.facturasubscribe.services\\config\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADA7A78-701F-4CD7-BFA4-81A9CF1C5667}|app.FacturaSubscribe.services\\app.FacturaSubscribe.services.csproj|solutionrelative:app.facturasubscribe.services\\config\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADA7A78-701F-4CD7-BFA4-81A9CF1C5667}|app.FacturaSubscribe.services\\app.FacturaSubscribe.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.facturasubscribekevinbarre\\app.facturasubscribe.services\\interfaces\\iprocesoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADA7A78-701F-4CD7-BFA4-81A9CF1C5667}|app.FacturaSubscribe.services\\app.FacturaSubscribe.services.csproj|solutionrelative:app.facturasubscribe.services\\interfaces\\iprocesoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADA7A78-701F-4CD7-BFA4-81A9CF1C5667}|app.FacturaSubscribe.services\\app.FacturaSubscribe.services.csproj|c:\\aplicacionesdistribuidas\\appdistrikevinbarre\\appdistri20251\\appecommercenetcore\\app.facturasubscribekevinbarre\\app.facturasubscribe.services\\implementacion\\procesosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADA7A78-701F-4CD7-BFA4-81A9CF1C5667}|app.FacturaSubscribe.services\\app.FacturaSubscribe.services.csproj|solutionrelative:app.facturasubscribe.services\\implementacion\\procesosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entidades.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.Entities\\Models\\Entidades.cs",
+              "RelativeDocumentMoniker": "app.FacturaSubscribe.Entities\\Models\\Entidades.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.Entities\\Models\\Entidades.cs",
+              "RelativeToolTip": "app.FacturaSubscribe.Entities\\Models\\Entidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:26:29.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.docker.json",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe\\appsettings.docker.json",
+              "RelativeDocumentMoniker": "app.FacturaSubscribe\\appsettings.docker.json",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe\\appsettings.docker.json",
+              "RelativeToolTip": "app.FacturaSubscribe\\appsettings.docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T20:43:06.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe\\appsettings.json",
+              "RelativeDocumentMoniker": "app.FacturaSubscribe\\appsettings.json",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe\\appsettings.json",
+              "RelativeToolTip": "app.FacturaSubscribe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T20:42:59.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "app.FacturaSubscribe\\appsettings.Development.json",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe\\appsettings.Development.json",
+              "RelativeToolTip": "app.FacturaSubscribe\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T20:42:55.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.services\\Config\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "app.FacturaSubscribe.services\\Config\\RabbitMQSettings.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.services\\Config\\RabbitMQSettings.cs",
+              "RelativeToolTip": "app.FacturaSubscribe.services\\Config\\RabbitMQSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:06:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMqConsumerService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.services\\MQ\\RabbitMqConsumerService.cs",
+              "RelativeDocumentMoniker": "app.FacturaSubscribe.services\\MQ\\RabbitMqConsumerService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.services\\MQ\\RabbitMqConsumerService.cs",
+              "RelativeToolTip": "app.FacturaSubscribe.services\\MQ\\RabbitMqConsumerService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAABBwEIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:22:52.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProcesoService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.services\\Interfaces\\IProcesoService.cs",
+              "RelativeDocumentMoniker": "app.FacturaSubscribe.services\\Interfaces\\IProcesoService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.services\\Interfaces\\IProcesoService.cs",
+              "RelativeToolTip": "app.FacturaSubscribe.services\\Interfaces\\IProcesoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:22:51.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcesosService.cs",
+              "DocumentMoniker": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.services\\Implementacion\\ProcesosService.cs",
+              "RelativeDocumentMoniker": "app.FacturaSubscribe.services\\Implementacion\\ProcesosService.cs",
+              "ToolTip": "C:\\aplicacionesDistribuidas\\appDistriKevinBarre\\appDistri20251\\appEcommerceNetCore\\app.FacturaSubscribeKevinBarre\\app.FacturaSubscribe.services\\Implementacion\\ProcesosService.cs",
+              "RelativeToolTip": "app.FacturaSubscribe.services\\Implementacion\\ProcesosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:22:49.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

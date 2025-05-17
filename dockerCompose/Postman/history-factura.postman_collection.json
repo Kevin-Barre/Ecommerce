@@ -1,0 +1,49 @@
+{
+	"info": {
+		"_postman_id": "0b280391-fc05-45ee-a4a6-f9fab8e16772",
+		"name": "history-factura",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19611528"
+	},
+	"item": [
+		{
+			"name": "history local",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5001/WeatherForecast",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"WeatherForecast"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "history Gateway",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5001/api/History",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"History"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

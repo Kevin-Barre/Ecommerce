@@ -1,0 +1,132 @@
+{
+	"info": {
+		"_postman_id": "e71eb463-fc3c-40e0-82df-d1272e3f0238",
+		"name": "DOCKER-Ecommerce-category",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19611528"
+	},
+	"item": [
+		{
+			"name": "categories",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5002/api/Categories",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5002",
+					"path": [
+						"api",
+						"Categories"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get category",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5002/api/Categories/id/4aa4349d-950e-47fe-9cd0-c6e5181347a0",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5002",
+					"path": [
+						"api",
+						"Categories",
+						"id",
+						"4aa4349d-950e-47fe-9cd0-c6e5181347a0"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert category",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"linea blanca\",\r\n  \"description\": \"hogar\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5002/api/Categories",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5002",
+					"path": [
+						"api",
+						"Categories"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update category",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"TV PANTALLA GIGANTE\",\r\n  \"description\": \"HOGAR SALA\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7282/api/Categories/1553e995-caa3-4da5-846e-720c12f3484a",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7282",
+					"path": [
+						"api",
+						"Categories",
+						"1553e995-caa3-4da5-846e-720c12f3484a"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7282/api/Categories/c803d388-a44a-40a7-8e8d-eac0d3d8fdf4",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7282",
+					"path": [
+						"api",
+						"Categories",
+						"c803d388-a44a-40a7-8e8d-eac0d3d8fdf4"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

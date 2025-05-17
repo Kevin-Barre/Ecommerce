@@ -1,0 +1,20 @@
+services:
+  proyecto-ecommerce:
+    container_name: proyectoFacturaDto-BKA
+    image: facturadto-api:v1
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        PROJECT_NAME: app.FacturaDto
+    ports:
+      - "8050:8050"
+    networks:
+      - net-app-distri
+    environment:
+      -  PROJECT_NAME=app.FacturaDto
+
+networks:
+  net-app-distri:
+    name: netappdistri
+    external: true

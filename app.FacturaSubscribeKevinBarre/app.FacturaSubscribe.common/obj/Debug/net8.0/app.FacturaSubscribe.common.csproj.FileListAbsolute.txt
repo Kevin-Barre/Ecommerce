@@ -1,0 +1,12 @@
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\bin\Debug\net8.0\app.FacturaSubscribe.common.deps.json
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\bin\Debug\net8.0\app.FacturaSubscribe.common.dll
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\bin\Debug\net8.0\app.FacturaSubscribe.common.pdb
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\obj\Debug\net8.0\app.FacturaSubscribe.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\obj\Debug\net8.0\app.FacturaSubscribe.common.AssemblyInfoInputs.cache
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\obj\Debug\net8.0\app.FacturaSubscribe.common.AssemblyInfo.cs
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\obj\Debug\net8.0\app.FacturaSubscribe.common.csproj.CoreCompileInputs.cache
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\obj\Debug\net8.0\app.FacturaSubscribe.common.sourcelink.json
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\obj\Debug\net8.0\app.FacturaSubscribe.common.dll
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\obj\Debug\net8.0\refint\app.FacturaSubscribe.common.dll
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\obj\Debug\net8.0\app.FacturaSubscribe.common.pdb
+C:\aplicacionesDistribuidas\appDistriKevinBarre\appDistri20251\appEcommerceNetCore\app.FacturaSubscribeKevinBarre\app.FacturaSubscribe.common\obj\Debug\net8.0\ref\app.FacturaSubscribe.common.dll

@@ -1,0 +1,418 @@
+[
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.CategoriaController",
+    "Method": "Obtener",
+    "RelativePath": "api/Categoria/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.CategoriaController",
+    "Method": "Actualizar",
+    "RelativePath": "api/Categoria/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.CategoriaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.CategoriaController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Categoria/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.CategoriaController",
+    "Method": "PostCategories",
+    "RelativePath": "api/Categoria/insertarCategoria",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.CategoriaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.CategoriaController",
+    "Method": "ObtenerCategoria",
+    "RelativePath": "api/Categoria/obtenerCategoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ClienteController",
+    "Method": "Obtener",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ClienteController",
+    "Method": "Actualizar",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.ClienteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ClienteController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ClienteController",
+    "Method": "PostCliens",
+    "RelativePath": "api/Cliente/insertarCliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.ClienteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ClienteController",
+    "Method": "ObtenerClientes",
+    "RelativePath": "api/Cliente/obtenerClientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ProductoController",
+    "Method": "Obtener",
+    "RelativePath": "api/Producto/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ProductoController",
+    "Method": "Actualizar",
+    "RelativePath": "api/Producto/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.ProductoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ProductoController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Producto/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ProductoController",
+    "Method": "PostProductos",
+    "RelativePath": "api/Producto/insertarProducto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.ProductoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.ProductoController",
+    "Method": "ObtenerProducto",
+    "RelativePath": "api/Producto/obtenerProducto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaController",
+    "Method": "Obtener",
+    "RelativePath": "api/Venta/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaController",
+    "Method": "Actualizar",
+    "RelativePath": "api/Venta/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.VentaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Venta/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaController",
+    "Method": "PostCliens",
+    "RelativePath": "api/Venta/insertarVenta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.VentaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaController",
+    "Method": "ObtenerClientes",
+    "RelativePath": "api/Venta/obtenerVentas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaDetalleController",
+    "Method": "Obtener",
+    "RelativePath": "api/VentaDetalle/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaDetalleController",
+    "Method": "Actualizar",
+    "RelativePath": "api/VentaDetalle/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.DetalleVentaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaDetalleController",
+    "Method": "Eliminar",
+    "RelativePath": "api/VentaDetalle/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaDetalleController",
+    "Method": "PostCliens",
+    "RelativePath": "api/VentaDetalle/insertarVentaDetalle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "app.proyectKevinBarre.common.Dto.DetalleVentaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.VentaDetalleController",
+    "Method": "ObtenerDetalleVenta",
+    "RelativePath": "api/VentaDetalle/obtenerVentaDeatlle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.proyectKevinBarre.api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[app.proyectKevinBarre.api.WeatherForecast, app.proyectKevinBarre.api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

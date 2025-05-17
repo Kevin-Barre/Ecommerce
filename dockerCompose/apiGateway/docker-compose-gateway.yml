@@ -1,0 +1,70 @@
+services:
+  service-gateway-database:
+    image: postgres:9.6
+    container_name: gateway-kong-database
+    restart: no
+    environment:
+      - POSTGRES_USER=kong
+      - POSTGRES_DB=kong
+      - POSTGRES_PASSWORD=kong
+    ports:
+    - 5432:5432
+    networks:
+    - net-app-distri
+  service-gateway-migration:
+    image: kong:latest 
+    command: kong migrations bootstrap
+    container_name: gateway-kong-migration
+    restart: on-failure
+    environment:
+      - KONG_DATABASE=postgres
+      - KONG_PG_PASSWORD=kong
+      - KONG_PG_DATABASE=kong
+      - KONG_PG_USER=kong
+      - KONG_PG_HOST=gateway-kong-database
+    depends_on:
+      - service-gateway-database
+    networks:
+    - net-app-distri  
+  service-gateway-kong:
+    image: kong:latest
+    container_name: gateway-kong
+    restart: no
+    environment:
+      - KONG_DATABASE=postgres
+      - KONG_PG_HOST=gateway-kong-database
+      - KONG_PG_USER=kong
+      - KONG_PG_PASSWORD=kong
+      - KONG_PROXY_ACCESS_LOG=/dev/stdout
+      - KONG_ADMIN_ACCESS_LOG=/dev/stdout
+      - KONG_PROXY_ERROR_LOG=/dev/stderr
+      - KONG_ADMIN_ERROR_LOG=/dev/stderr
+      - KONG_ADMIN_LISTEN=0.0.0.0:8001, 0.0.0.0:8444 ssl
+      - KONG_DECLARATIVE_CONFIG=/usr/local/kong/declarative/kong.yml
+    links:
+      - service-gateway-database:gateway-kong-database
+    depends_on:
+      - service-gateway-migration
+    ports:
+      - "8000:8000"
+      - "8443:8443"
+      - "8001:8001"
+      - "8444:8444"
+    networks:
+    - net-app-distri
+  service-gateway-konga:
+    image: pantsel/konga
+    container_name: gateway-konga
+    restart: no
+    ports:
+      - 1337:1337
+    links:
+      - service-gateway-kong:gateway-kong
+    environment:
+      - NODE_ENV=production
+    networks:
+    - net-app-distri 
+ 
+networks:
+  net-app-distri:
+    name: netappdistri
